@@ -1,4 +1,4 @@
-# 📊 MarketPulse: Strategic Marketing Campaign Analysis
+# 📊 Strategic Marketing Campaign Analysis
 
 A comprehensive end-to-end marketing analytics project focused on customer segmentation, campaign effectiveness, and data-driven insights using Python and Power BI.
 
